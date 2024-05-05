@@ -22,7 +22,7 @@
     </tr>
     <tr>
         <th>배포 링크</th>
-        <td><a href="mydearbao.vercel.app/">링크</a></td>
+        <td><a href="https://mydearbao.vercel.app/">링크</a></td>
     </tr>
 </table>
 
